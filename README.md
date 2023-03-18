@@ -1,2 +1,2 @@
-# distrubuted-chat-servers
-CIS505
+# Distributed Chat Servers
+
